@@ -122,9 +122,8 @@ function shift() {
 function type() {
 	let typed = new Typed("#typed", {
 		strings: [
-			"Beginning Web Developer",
-			"Beginning Graphic Designer",
-			"Student.",
+			"Currently studying at Academy Of Cryptography Techniques",
+			"KMA_CYBER_SECURITY",
 		],
 		typeSpeed: 70,
 		backSpeed: 20,
