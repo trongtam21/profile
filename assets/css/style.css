@@ -986,7 +986,7 @@ header.sticky .theme-btn:hover{
 	margin-top: 25px;
 	font-weight: 800;
 	color:  var(--white1);
-	transition: all 0.3s ease-in-out;
+
 	opacity: 0;
 }
 .about-head span{
