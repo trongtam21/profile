@@ -1184,13 +1184,13 @@ header.sticky .theme-btn:hover{
 	width: 60%;
 }
 .bar .progress-line.css span{
-	width: 50%;
+	width: 0%;
 }
 .bar .progress-line.pascal span{
-	width: 90%;
+	width: 70%;
 }
 .bar .progress-line.python span{
-	width: 25%;
+	width: 50%;
 }
 .bar .progress-line.js span{
 	width: 0%;
@@ -1199,13 +1199,13 @@ header.sticky .theme-btn:hover{
 	content: "60%";
 }
 .progress-line.css span::after{
-	content: "50%";
+	content: "0%";
 }
 .progress-line.pascal span::after{
-	content: "90%";
+	content: "70%";
 }
 .progress-line.python span::after{
-	content: "25%";
+	content: "50%";
 }
 .progress-line.js span::after{
 	content: "30%";
@@ -1213,10 +1213,10 @@ header.sticky .theme-btn:hover{
 
 /* Design */
 .bar .progress-line.ps span{
-	width: 20%;
+	width: 60%;
 }
 .bar .progress-line.ai span{
-	width: 0%;
+	width: 40%;
 }
 .bar .progress-line.lr span{
 	width: 0%;
@@ -1228,10 +1228,10 @@ header.sticky .theme-btn:hover{
 	width: 0%;
 }
 .progress-line.ps span::after{
-	content: "20%";
+	content: "60%";
 }
 .progress-line.ai span::after{
-	content: "0%";
+	content: "40%";
 }
 .progress-line.lr span::after{
 	content: "0%";
